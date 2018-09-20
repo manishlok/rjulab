@@ -1,2 +1,2 @@
 # rjulab
-wp theme test
+Rajarshi Janak University Student Network
