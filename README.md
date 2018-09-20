@@ -1,3 +1,3 @@
-# Headline
+# RJU Lab
 
-> An awesome project.
+> RJU Lab
